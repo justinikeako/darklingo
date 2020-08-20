@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="learn-cutout.svg"
+   id="svg16"
+   version="1.1"
+   viewBox="0 0 46 46"
+   height="46"
+   width="46">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg16"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="12.447144"
+     inkscape:cx="46.785801"
+     inkscape:zoom="2.7826087"
+     inkscape:snap-page="true"
+     showgrid="false"
+     id="namedview18"
+     inkscape:window-height="745"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <title
+     id="title2">learn</title>
+  <path
+     d="M 0 0 L 0 46 L 46 46 L 46 0 L 0 0 z M 17.082031 3 C 23.22107 3 28.158203 7.8776451 28.158203 13.90625 C 28.158203 19.934854 23.22107 24.814453 17.082031 24.814453 C 10.942992 24.814453 6.0058599 19.934855 6.0058594 13.90625 C 6.0058593 7.8776448 10.942992 2.9999997 17.082031 3 z "
+     style="fill:#101010;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+     id="rect847" />
+  <ellipse
+     fill="#ff4b4b"
+     cx="21"
+     cy="36.464001"
+     rx="7"
+     ry="6.8930001"
+     id="ellipse4"
+     style="fill-rule:evenodd;stroke:none;stroke-width:1" />
+  <path
+     id="ellipse6"
+     d="m 30.4375,12.152344 a 8.5,8.3699999 0 0 0 -0.140625,0.0039 c 0.07773,0.574145 0.130859,1.155043 0.130859,1.75 0,4.934755 -2.764953,9.234264 -6.835937,11.492188 A 8.5,8.3699999 0 0 0 30.5,28.892578 8.5,8.3699999 0 0 0 39,20.521484 a 8.5,8.3699999 0 0 0 -8.5,-8.36914 8.5,8.3699999 0 0 0 -0.0625,0 z"
+     style="fill:#ffc800;fill-rule:evenodd;stroke:none;stroke-width:1" />
+</svg>
