@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="inactive-learn.svg"
-   id="svg16"
-   version="1.1"
-   viewBox="0 0 46 46"
+   width="46"
    height="46"
-   width="46">
+   viewBox="0 0 46 46"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="inactive-learn.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -28,49 +28,50 @@
   <defs
      id="defs20" />
   <sodipodi:namedview
-     inkscape:current-layer="svg16"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="23"
-     inkscape:cx="23"
-     inkscape:zoom="11.130435"
-     showgrid="false"
-     id="namedview18"
-     inkscape:window-height="745"
-     inkscape:window-width="1366"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="11.130435"
+     inkscape:cx="23"
+     inkscape:cy="11.839649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
   <title
      id="title2">tab_learn_inactive</title>
   <g
-     id="g862">
+     id="g840">
     <ellipse
-       style="fill:#101010;fill-rule:evenodd;stroke:#606060;stroke-width:2.6;fill-opacity:1;stroke-opacity:1"
-       id="ellipse4"
-       ry="5.5929999"
-       rx="5.6999998"
+       cx="21"
        cy="36.464001"
-       cx="21" />
+       rx="5.6999998"
+       ry="5.5929999"
+       id="ellipse4"
+       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
     <ellipse
-       style="fill:#101010;fill-rule:evenodd;stroke:#606060;stroke-width:2.6;fill-opacity:1;stroke-opacity:1"
-       id="ellipse6"
-       ry="7.0700002"
-       rx="7.1999998"
+       cx="30.5"
        cy="20.521999"
-       cx="30.5" />
+       rx="7.1999998"
+       ry="7.0700002"
+       id="ellipse6"
+       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
     <ellipse
-       style="fill:#101010;fill-rule:evenodd;stroke:#606060;stroke-width:2.6;fill-opacity:1;stroke-opacity:1"
-       id="ellipse8"
-       ry="9.6070004"
-       rx="9.776"
+       cx="17.082001"
        cy="13.907"
-       cx="17.082001" />
+       rx="9.776"
+       ry="9.6070004"
+       id="ellipse8"
+       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
   </g>
 </svg>
