@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="streak-flame-empty.svg"
+   id="svg10"
+   version="1.1"
+   viewBox="0 0 134 160"
+   height="160px"
+   width="134px">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg10"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="80"
+     inkscape:cx="67"
+     inkscape:zoom="3.2"
+     showgrid="false"
+     id="namedview12"
+     inkscape:window-height="745"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">FLAME</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Group-23-Copy-4"
+     fill="#e5e5e5"
+     style="fill-rule:evenodd;stroke:none;stroke-width:1;fill:#575e6b;fill-opacity:1">
+    <g
+       style="fill:#575e6b;fill-opacity:1"
+       id="Group-18">
+      <path
+         style="fill:#575e6b;fill-opacity:1"
+         d="m 74.494157,2.8444866 c 0.635245,0.5160197 1.215496,1.09627 1.731515,1.7315153 L 119.70742,58.101729 C 128.66023,68.812686 134,82.319987 134,97 134,131.79394 104.00308,160 67,160 29.996922,160 0,131.79394 0,97 0,95.403145 0.06318307,93.820165 0.18732671,92.253152 0.12539022,91.839912 0.09632515,91.424506 0.10086775,91.011393 L 0.69610745,36.87921 C 0.78268181,29.005981 5.1809986,23.138106 12.545825,24.271297 c 1.46764,0.225819 4.564602,1.113083 5.947744,1.834315 L 33.8,34.086843 57.774328,4.5760019 C 61.913236,-0.51919621 69.398959,-1.294422 74.494157,2.8444866 Z"
+         id="Combined-Shape" />
+    </g>
+  </g>
+</svg>
