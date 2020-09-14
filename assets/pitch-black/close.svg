@@ -28,13 +28,14 @@
   <defs
      id="defs22" />
   <sodipodi:namedview
+     inkscape:snap-page="true"
      inkscape:current-layer="svg18"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="8"
-     inkscape:cx="8"
-     inkscape:zoom="32"
+     inkscape:cy="9.3182586"
+     inkscape:cx="17.605109"
+     inkscape:zoom="11.313709"
      showgrid="false"
      id="namedview20"
      inkscape:window-height="745"
@@ -46,9 +47,14 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <title
      id="title2">Group 9</title>
+  <path
+     d="M 16 0 L 16 16 L 32 16 L 32 0 L 16 0 z M 17.941406 0.5 A 1.5 1.5 0 0 1 18.044922 0.5 A 1.5 1.5 0 0 1 19.060547 0.93945312 L 24 5.8789062 L 28.939453 0.93945312 A 1.5 1.5 0 0 1 31.060547 0.93945312 A 1.5 1.5 0 0 1 31.060547 3.0605469 L 26.121094 8 L 31.060547 12.939453 A 1.5 1.5 0 0 1 31.060547 15.060547 A 1.5 1.5 0 0 1 28.939453 15.060547 L 24 10.121094 L 19.060547 15.060547 A 1.5 1.5 0 0 1 16.939453 15.060547 A 1.5 1.5 0 0 1 16.939453 12.939453 L 21.878906 8 L 16.939453 3.0605469 A 1.5 1.5 0 0 1 16.939453 0.93945312 A 1.5 1.5 0 0 1 17.941406 0.5 z "
+     style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke;fill-opacity:1"
+     id="rect840" />
   <g
      id="g871">
     <g
@@ -57,7 +63,14 @@
       <path
          id="path4"
          d="M 2,2 14,14 M 14,2 2,14"
-         style="stroke:#606060;stroke-opacity:1" />
+         style="stroke:#404040;stroke-opacity:1" />
     </g>
+  </g>
+  <g
+     transform="translate(16)"
+     id="g846">
+    <g
+       id="g844"
+       style="fill:none;fill-rule:evenodd;stroke:#606060;stroke-width:3;stroke-linecap:round;stroke-opacity:1" />
   </g>
 </svg>

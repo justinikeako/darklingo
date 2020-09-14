@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="46"
-   height="46"
-   viewBox="0 0 46 46"
+   width="40"
+   height="40"
+   viewBox="0 0 40 40"
    version="1.1"
    id="svg14"
-   sodipodi:docname="inactive-discuss.svg"
+   sodipodi:docname="search.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata20">
@@ -41,25 +41,20 @@
      inkscape:window-height="745"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="5.5652174"
-     inkscape:cx="70.922714"
-     inkscape:cy="-10.482003"
+     inkscape:zoom="12.8"
+     inkscape:cx="20"
+     inkscape:cy="20"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <title
-     id="title2">tab_discuss inactive</title>
+     id="title2">search</title>
   <g
-     id="g834">
+     id="g862">
     <path
-       d="m 8.278,29.348 5.647,-5.339 h 9.772 a 4.657,4.657 0 0 0 4.656,-4.656 V 9.957 A 4.657,4.657 0 0 0 23.697,5.3 H 6.957 A 4.657,4.657 0 0 0 2.3,9.957 v 9.396 a 4.658,4.658 0 0 0 3.931,4.6 l 1.1,0.172 v 4.815 a 0.561,0.561 0 0 0 0.947,0.408 z"
-       id="path4"
-       style="fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
-    <path
-       d="M 37.637,41.244 31.919,35.755 H 23.89 c -2.39,0 -4.357,-2.082 -4.357,-4.686 v -9.365 c 0,-2.605 1.967,-4.687 4.357,-4.687 h 15.109 c 2.39,0 4.357,2.082 4.357,4.687 v 9.365 c 0,2.39 -1.67,4.373 -3.83,4.652 l -1.133,0.147 v 4.928 c 0,0.331 -0.226,0.57 -0.468,0.57 a 0.416,0.416 0 0 1 -0.288,-0.122 z"
-       fill="#ffffff"
-       id="path6"
-       style="fill-rule:evenodd;stroke:#808080;stroke-width:2.6;fill:#101010;fill-opacity:1;stroke-opacity:1" />
+       d="M 19.050781 9 A 8.0500002 8.0500002 0 0 0 11 17.050781 A 8.0500002 8.0500002 0 0 0 19.050781 25.099609 A 8.0500002 8.0500002 0 0 0 27.099609 17.050781 A 8.0500002 8.0500002 0 0 0 19.050781 9 z M 24.103516 25.226562 L 28.097656 30.853516 L 24.103516 25.226562 z "
+       style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path4" />
   </g>
 </svg>

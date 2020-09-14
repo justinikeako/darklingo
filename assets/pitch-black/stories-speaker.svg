@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28"
+   height="23"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="cutout-stories-speaker.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview12"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="7.8704059"
+     inkscape:cx="9.0768783"
+     inkscape:cy="16.901924"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     id="rect851"
+     style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+     d="M 0 0 L 0 9.8496094 A 5 5 0 0 1 5 4.8496094 L 8.0351562 4.8496094 L 8.0351562 4.6484375 L 12.763672 0.56445312 C 13.087662 0.28473272 13.457336 0.13216163 13.828125 0.087890625 C 13.967171 0.071288625 14.106788 0.06929425 14.244141 0.08203125 C 15.205612 0.17119235 16.070397 0.9545348 16.070312 2.078125 L 16.070312 20.121094 C 16.07044 21.833231 14.059634 22.755601 12.763672 21.636719 L 8.0351562 17.552734 L 8.0351562 17.349609 L 5 17.349609 A 5 5 0 0 1 0 12.349609 L 0 23 L 28 23 L 28 0 L 0 0 z M 21.453125 4.0917969 A 1 1 0 0 1 21.701172 4.1289062 C 25.354316 5.1455744 27.304701 8.3236698 27.337891 11.464844 C 27.371084 14.606017 25.490219 17.826282 21.859375 18.919922 A 1 1 0 0 1 20.613281 18.25 A 1 1 0 0 1 21.28125 17.003906 C 24.077716 16.161588 25.362831 13.846239 25.337891 11.486328 C 25.312953 9.1264171 23.979657 6.8377224 21.166016 6.0546875 A 1 1 0 0 1 20.470703 4.8242188 A 1 1 0 0 1 21.453125 4.0917969 z M 19.642578 8.3144531 C 20.636745 8.3144531 21.509097 8.7228812 22.064453 9.3476562 C 22.619809 9.9724323 22.875 10.766528 22.875 11.546875 C 22.875 12.327222 22.619809 13.121318 22.064453 13.746094 C 21.509097 14.370869 20.636745 14.779297 19.642578 14.779297 A 1 1 0 0 1 18.642578 13.779297 A 1 1 0 0 1 19.642578 12.779297 C 20.136744 12.779297 20.381502 12.628427 20.570312 12.416016 C 20.759123 12.203604 20.875 11.882778 20.875 11.546875 C 20.875 11.210972 20.759124 10.888193 20.570312 10.675781 C 20.381502 10.463369 20.136744 10.314453 19.642578 10.314453 A 1 1 0 0 1 18.642578 9.3144531 A 1 1 0 0 1 19.642578 8.3144531 z " />
+</svg>

@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="46"
-   height="46"
-   viewBox="0 0 46 46"
+   width="10"
+   height="17"
+   viewBox="0 0 10 17"
    version="1.1"
-   id="svg16"
-   sodipodi:docname="inactive-learn.svg"
+   id="svg8"
+   sodipodi:docname="arrow-down.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
-     id="metadata22">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs20" />
+     id="defs12" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
@@ -39,39 +39,24 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="745"
-     id="namedview18"
+     id="namedview10"
      showgrid="false"
-     inkscape:zoom="11.130435"
-     inkscape:cx="23"
-     inkscape:cy="11.839649"
+     inkscape:zoom="30.117647"
+     inkscape:cx="5"
+     inkscape:cy="8.5"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg8" />
   <title
-     id="title2">tab_learn_inactive</title>
+     id="title2">special char down</title>
   <g
-     id="g840">
-    <ellipse
-       cx="21"
-       cy="36.464001"
-       rx="5.6999998"
-       ry="5.5929999"
-       id="ellipse4"
-       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
-    <ellipse
-       cx="30.5"
-       cy="20.521999"
-       rx="7.1999998"
-       ry="7.0700002"
-       id="ellipse6"
-       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
-    <ellipse
-       cx="17.082001"
-       cy="13.907"
-       rx="9.776"
-       ry="9.6070004"
-       id="ellipse8"
-       style="fill:#101010;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:2.6;stroke-opacity:1" />
+     id="g841">
+    <path
+       d="m 7.546,7.547 a 1,1 0 1 1 1.344,1.48 l -3.168,2.877 a 1,1 0 0 1 -1.345,0 L 1.21,9.027 A 1,1 0 1 1 2.554,7.547 L 5.05,9.813 Z"
+       fill="#a9a9a9"
+       fill-rule="nonzero"
+       id="path4"
+       style="stroke:none;stroke-width:1;fill:#404040;fill-opacity:1" />
   </g>
 </svg>
