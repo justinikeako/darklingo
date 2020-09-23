@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36"
+   height="18"
+   viewBox="0 0 36 18"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="info.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview14"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="20.113259"
+     inkscape:cx="17.534345"
+     inkscape:cy="5.8282823"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">info button</title>
+  <g
+     transform="translate(-1,-1)"
+     fill="none"
+     id="g10">
+    <circle
+       stroke="#FFF"
+       stroke-width="2"
+       fill="#AFAFAF"
+       cx="10"
+       cy="10"
+       r="9"
+       id="circle4"
+       style="fill:#737c8c;fill-opacity:1;stroke:none" />
+    <rect
+       fill="#FFF"
+       x="8.75"
+       y="8.75"
+       width="2.5"
+       height="6.25"
+       rx="1.25"
+       id="rect6"
+       style="fill:#0b0e14;fill-opacity:1" />
+    <rect
+       fill="#FFF"
+       transform="matrix(1,0,0,-1,0,12.5)"
+       x="8.75"
+       y="5"
+       width="2.5"
+       height="2.5"
+       rx="1.25"
+       id="rect8"
+       style="fill:#0b0e14;fill-opacity:1" />
+  </g>
+  <g
+     id="g840"
+     fill="none"
+     transform="translate(17,-1)">
+    <circle
+       style="fill:#575e6b;fill-opacity:1;stroke:none"
+       id="circle834"
+       r="9"
+       cy="10"
+       cx="10"
+       fill="#AFAFAF"
+       stroke-width="2"
+       stroke="#FFF" />
+    <rect
+       style="fill:#0b0e14;fill-opacity:1"
+       id="rect836"
+       rx="1.25"
+       height="6.25"
+       width="2.5"
+       y="8.75"
+       x="8.75"
+       fill="#FFF" />
+    <rect
+       style="fill:#0b0e14;fill-opacity:1"
+       id="rect838"
+       rx="1.25"
+       height="2.5"
+       width="2.5"
+       y="5"
+       x="8.75"
+       transform="matrix(1,0,0,-1,0,12.5)"
+       fill="#FFF" />
+  </g>
+</svg>

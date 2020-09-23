@@ -8,12 +8,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="red-discuss.svg"
+   sodipodi:docname="plus-check.svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 25 25"
-   height="25"
-   width="25">
+   fill="none"
+   viewBox="0 0 32 32"
+   height="32"
+   width="32">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -32,9 +33,10 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
-     inkscape:cy="12.5"
-     inkscape:cx="12.5"
-     inkscape:zoom="20.48"
+     inkscape:cy="20.547511"
+     inkscape:cx="-14.731232"
+     inkscape:zoom="8"
+     inkscape:snap-page="true"
      showgrid="false"
      id="namedview10"
      inkscape:window-height="745"
@@ -47,12 +49,24 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <title
-     id="title2">red-discuss</title>
   <path
-     d="M 13.75,18 8.664,22.52 A 1,1 0 0 1 7,21.774 V 18 H 5 A 3,3 0 0 1 2,15 V 5 A 3,3 0 0 1 5,2 h 15 a 3,3 0 0 1 3,3 v 10 a 3,3 0 0 1 -3,3 z"
-     stroke="#ea2b2b"
-     stroke-width="2.5"
+     style="fill:#000000;fill-opacity:0.40322581"
+     id="path2"
+     stroke-width="4"
+     stroke="white"
+     fill="#2B70C9"
+     d="M16 30C23.732 30 30 23.732 30 16C30 8.26801 23.732 2 16 2C8.26801 2 2 8.26801 2 16C2 23.732 8.26801 30 16 30Z" />
+  <path
      id="path4"
-     style="fill:none;fill-rule:evenodd;stroke:#e46767;stroke-opacity:1" />
+     fill="white"
+     d="M14.0339 17.3486L11.6629 15.0316C11.0038 14.3875 9.94718 14.3921 9.29255 15.0318C8.63336 15.676 8.63783 16.7086 9.29233 17.3482L12.8487 20.8236C13.5078 21.4678 14.5645 21.4631 15.2191 20.8234C15.2853 20.7587 15.3447 20.6901 15.3976 20.6184C15.4715 20.5664 15.5422 20.5079 15.6088 20.4428L22.1994 14.0022C22.8566 13.36 22.8604 12.3191 22.2058 11.6794C21.5466 11.0352 20.487 11.0424 19.8288 11.6856L14.0339 17.3486V17.3486Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+  <circle
+     id="circle6"
+     fill="white"
+     r="3.2"
+     cy="12.7996"
+     cx="12.7996"
+     opacity="0.3" />
 </svg>
