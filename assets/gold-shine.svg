@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="gold-shine.svg"
+   id="svg4"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 81 101"
+   height="101"
+   width="81">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="50.5"
+     inkscape:cx="40.5"
+     inkscape:zoom="5.0693069"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="745"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#e6b400;fill-opacity:1"
+     id="path2"
+     fill="#FFDE00"
+     d="M3.18816 37.9046C-0.109597 41.2023 -0.109596 46.5491 3.18816 49.8468C6.48592 53.1446 11.8327 53.1446 15.1304 49.8468L50.0891 14.8881C53.3869 11.5903 53.3869 6.24361 50.0891 2.94585C46.7914 -0.351906 41.4446 -0.351905 38.1469 2.94586L3.18816 37.9046ZM6.56707 85.8626C3.26931 89.1603 3.26931 94.5071 6.56707 97.8048C9.86483 101.103 15.2116 101.103 18.5093 97.8048L78.3445 37.9696C81.6423 34.6719 81.6423 29.3252 78.3445 26.0274C75.0467 22.7296 69.7 22.7296 66.4022 26.0274L6.56707 85.8626Z"
+     clip-rule="evenodd"
+     fill-rule="evenodd" />
+</svg>
